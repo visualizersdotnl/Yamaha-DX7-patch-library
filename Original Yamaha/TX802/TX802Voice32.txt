@@ -1,0 +1,1 @@
+TX802Voice32 is the same sysex as DX7IIFDVoice32.SYX

@@ -1,0 +1,36 @@
+======= DX7_v21 "Clyde Jones" =======
+
+This volume contains the Clyde Jones' collection with 25 banks in SysEx (*.syx) format
+NOTE: the 148 single patches normally contained in this folder have been compiled in 5 banks (Cjsp1-Cjsp5)
+
+Banks:
+Cjsp1
+Cjsp2
+Cjsp3
+Cjsp4
+Cjsp5
+Dxbasic
+Dxbasic2
+Dxbasic3
+Dxbasic4
+Dxbasic5
+Dxbasic6
+Dxbasic7
+Dxbasic8
+Dxbasic9
+Dxorgans
+Indiv01 
+Indiv02
+Indiv03
+Indiv04
+Soundfx1
+Soundfx2
+Soundfx3 
+Studio1
+Synthfx1
+Synthfx2 
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

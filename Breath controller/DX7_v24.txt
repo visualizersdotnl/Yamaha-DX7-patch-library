@@ -1,0 +1,13 @@
+======= DX7_v24 "Breath controller" =======
+
+This volume contains 3 specific SysEx (*.syx) banks with patches especially programmed for a Breath Controller use
+
+Banks: 
+Dx7_bc_1
+Dx7_bc_2
+Dx7_bc_3
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

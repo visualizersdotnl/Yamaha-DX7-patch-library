@@ -1,0 +1,32 @@
+				10. "Asia"   1     
+				11. "Asia"   2     
+				12. "Asia"   3     
+				26. "Chop"   1     
+				29. "Clown"  1     
+				30. "Clown"  2     
+				01. "DistPno"1     
+				09. "DMC-Clv"1     
+				10. "DMC-Org"1     
+				11. "DMC-Org"2     
+				12. "DMC-Org"3     
+				13. "DMC-Vlg"1     
+				14. "DMC-Vlg"2     
+				15. "DMC-Vlg"3     
+				16. "DMC-Vlg"4                   
+				17. "DMC-Vlg"5     
+				22. "FunkOrg"1     
+				23. "FunkOrg"2     
+				24. "FunkPno"1     
+				25. "FunkPno"2     
+				28. "HighRhod"     
+				07. "Low-Rhod"     
+				11. "Movie"  1     
+				12. "Movie"  2     
+				18. "Rhod/Blz"     
+				20. "SF-Org" 1     
+				21. "SF-Org" 2     
+				22. "SF-Org" 3     
+				23. "SF-Pno" 1     
+				26. "Stoned" 2     
+				27. "Strykje"1     
+				"Wahpower"

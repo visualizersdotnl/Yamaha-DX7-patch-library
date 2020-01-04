@@ -1,0 +1,27 @@
+DX7 patches by
+Frank Carvalho
+
+Converted to Unisyn (.TX) and standard sysex bank format by Tim Conrardy
+
+Notes on using the sounds (from posts on the FM synthisis forum)
+
+Most of my patches do expect several sorts of modulation routings.
+Route modulation wheel and pressure with range=99 to pitch.
+Route modulation footpedal to amplitude, range=99
+I usually also have a footswitch to turn portamento on/off
+and have the data entry slider set to the portamento time.
+This gives maximum benefit of these patches.
+
+
+The modulation is really important for these sounds. They were not originally made with publication in mind. I always have my DX7 set up with specific modulation routings, to react on pressure, velocity, mod wheel, mod pedal, portament switch etc. 
+Unfortunately the function settings are not saved, as far as I know. 
+
+For full enjoyment of the ABACAB sound, set portamento time=1 and glissando=off.
+All the Moogy sounds, including From The Beginning, obviously require a portmento time in the range 15-30. The "Ravine" should also have a fairly fast portamento and sounds fantastic with a huge delay. Pressure should be routed to the same as mod wheel, so pressure gives it tremolo. (This is something that holds for all the sounds).
+
+I usually also play sounds like the Moog1, Heroes, Prophet and ABACAB through an old Boss Flanger, which gives an extra huge analog-like sound. 
+
+
+Cheers
+
+Frank Carvalho

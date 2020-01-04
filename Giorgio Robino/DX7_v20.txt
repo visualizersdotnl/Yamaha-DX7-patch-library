@@ -1,0 +1,11 @@
+======= DX7_v20 "Giorgio Robino" =======
+
+This volume contains 1 SysEx (*.syx) percussion bank programmed by Giorgio Robino 
+
+Bank: 
+Percdanz
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

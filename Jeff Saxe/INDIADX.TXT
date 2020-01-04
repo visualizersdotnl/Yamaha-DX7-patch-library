@@ -1,0 +1,6 @@
+John, here's a small collection of "Indian" patches. I can't vouch for their
+utility since I haven't listened to them. Please note that they're in Prolib
+format, since my MIDIex seems to want to screw up consistently. I may have 
+some other similar voices, which I'll send if I find 'em. I hope these can
+come in handy. BTW, the "Tamboura 4" patch is by Brian Eno ; I think it's
+pretty nice sound. Ciao for now...dlp

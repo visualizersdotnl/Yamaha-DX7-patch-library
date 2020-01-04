@@ -1,0 +1,21 @@
+*******************************JEZREEL*********************************
+	http://www.geocities.com/jezreel_design/dx7sound.html
+
+	JEZREEL SOUND DESIGN 
+	These patches are of domain public and of free distribution
+	gentility of Jezreel sound design.
+
+	Help notes to install the files syx:
+	first extrac with winzip or aladin.
+	second to open the files wished in one of the following programs
+	 that handle and send sysex to the computer:
+	++Cakewal  (++Edit sysex-load bank)
+	++Midilib     (open ++File)
+	++DXeditor   (open ++Patches)
+	++Soundlib    (++Patches-open)
+	to consult the manual of midi to send and receive patches:
+	http://www.ats.com.au/~jonescnt/dx7midi.htm
+
+	to send the patches
+	*****10240 proven sounds*****, without protocol mistakes.
+	one of the libraries but large in syx for the Yamaha DX7.

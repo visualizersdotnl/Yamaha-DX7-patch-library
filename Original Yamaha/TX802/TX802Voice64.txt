@@ -1,0 +1,1 @@
+TX802Voice64 is the same sysex as DX7IIFDVoice64.SYX

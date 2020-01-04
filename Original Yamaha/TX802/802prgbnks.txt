@@ -1,0 +1,78 @@
+
+
+                      YAMAHA DX7 Synthesizer bzw.
+                      YAMAHA TX802 Expander
+
+
+ Bank 1          Bank 2          Bank 3          Bank 4
+
+MellowHorn      Piano   1       CP-70.2 MS      12-StrngMS
+SilvaBrass      Piano   2       SteinwayMS      Span.GitMS
+ReverbBras      KnockRoad       Kawai-C2MS      Span.-2 MS
+Tuba            RubbaRoad       WurlizerMS      Ac.Git-4MS
+Trombone        HardRoads       HohnerD6MS      Ac.Git-5MS
+HardTrumps      FullTines       ClavinetMS      Jazz-GitMS
+Trumpet  A      ClaviStuff      Cembalo MS      StratocaMS
+SilvaTrmpt      Clavi           Cembal.2MS      E.Git-1 MS
+Trumpet  B      Clavecin        JazzvibeMS      E.Git-3 MS
+FrenchHorn      ClaviPluck      Pg-VibesMS      Hi Jimi MS
+Strings         NasalClav       Marimba1MS      Jimi-2  MS
+HallOrch        HarpsiBox       Marimba2MS      Banjo-x MS
+NewOrchest      HarpsiWire      Steeldr1MS      Co.Bass1MS
+Analog-Str      WireStrg A      Steeldr2MS      Co.Bass2MS
+LiveStrg        WireStrg B      Limimba MS      FretlessMS
+BowedBass       TouchOrgan      XylophonMS      FunkbassMS
+EleCello A      ShOrgan         Pipes-1 MS      Sitar-1 MS
+EleCello B      TapOrgan        Pipes-2 MS      Sitar-2 MS
+Violins         BriteOrgan      Pipes-3 MS      Tabla-x MS
+Bassoon         MagicOrgan      Pipes-4 MS      Biwa-x  MS
+Clarinet        SoftOrgan       Hammond1MS      ShiyamisMS
+Oboe            PipeOrgan       Hammond2MS      Mandol.1MS
+Flute           PuffOrgan1      J.Smith MS      Mandol.2MS
+SongFlute       PuffPipes       B-3 LeslMS      Zither  MS
+SpitFlute       PuffOrgan2      KorgCX-3MS      Harp-1  MS
+PanFloot        Harmonium1      Akkord.1MS      Harp-2  MS
+Piccolo         Harmonium2      Akkord.2MS      Harp-3  MS
+Sax             Whisper  A      FendRhodMS      Strings4MS
+Harmonica       Choir           Honky-PnMS      Cellos-4MS
+Harp            LadyVox         Harmoni.MS      Agitato MS
+EbonyIvory      MaleChoir       Mark-1  MS      Str.FullMS
+PianoBrite      Whisper  B      MaultromMS      Sol.ViolMS
+
+
+
+ Bank 5          Bank 6          Bank 7          Bank 8
+
+Benson-dMS      MoogBassMS      OB A-3  MS      Science MS
+Ben.BassMS      RappCosyMS      WrmStrngMS      U.F.O.x MS
+Graydon2MS      THE HONK        SYNTHIE  2      Tele-a  MS
+Graydon3MS      Rattle-BMS      Agitato MS       DX-TUB.S-
+Closer  MS      Metal M.S.      StrEns-2MS      - ZIRP -  
+Brokers MS      Synbass MS      AnnaSubtMS      12-STRING 
+D.FosterMS      Onic-m  MS      PwrStrinMS      PERC.PICK.
+Metheny4MS      Onic-n  MS      Strings8MS      LFO-BRASS 
+Metheny5MS      RickybasMS      StrngGtrMS      Lazer-a MS
+O'Bryen MS      NoLimit MS      SuperStrMS      Lazer-b MS
+SILVER-P.       PercBassMS      Joe's stMS      Lazer-c MS
+Tony's 1MS      Franky'sMS      Joe's s2MS      Punchon MM
+RHODES 5        1.st Bs MS      Joe's s3MS      Rumble  MS
+Tony's 3MS      PercBass 2      E-PI.-STR.      TOM-TOM   
+OutKlickMS      PD-Bass MS      PING VOICE      CONGAS    
+ELEC.GRAND      360'er  MS      ANALOG-...      Glimmer2MS
+ChorsOrgMS      Saw-LeadMS      .UTOPIA .       E.-DRUMKIT
+D. FOSTER       Solow   MS      SplatBrsMS      PIANO-MECH
+BASS    1       STUTZFLUGL      TROMBONE        OM SITAR  
+W-NightsMS        BAR-KLA4      BigBottyMS      DX-ORGAN 1
+TUB BELLS       2ND.FOSTER      Wilton-2MS      TENOR-BASS
+POTATOE-X       MARIMBA         Prophet3MS      PLUCK BASS
+Nylon-P1MS      Yellybe2MS      AnnXylonMS      SYNTHBASS 
+VIBRAPHON        -DX- FUNK      Big StarMS      TheZone MS
+JAZZ-GITAR      SequenceMS      Sweep-f MS      ANALOG KIT
+E.-PIANO        ModulateMS      SAMPLBRASS      GeneratrMS
+J.SampleMS       -NASTY-        J.Hey   MS      S.O.S.BASS
+Joe's 2 MS      FLUTE   1       HORNSECTE       Ditto-a MS
+3rd Way MS      FairliteMS      TwilightMS      Car RaceMS
+Japan-f MS      Carlos-gMS      BlastersMS      SeaVoiceMS
+Chroma-aMS      Big-StarMS      C.Cross MS      Plain-c MS
+Chroma-bMS      DepeModeMS      BLECH WEG       Plain-d MS
+

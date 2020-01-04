@@ -1,0 +1,12 @@
+======= DX7_v34 "Mike Stroud" =======
+
+This volume contains 1 SysEx (*.syx) bank with 10 patches programmed by Mike Stroud
+SPECIAL NOTE: we added in this bank a Bernhard Döring's patch ("JanGuitar")
+
+Bank: 
+M_stroud
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

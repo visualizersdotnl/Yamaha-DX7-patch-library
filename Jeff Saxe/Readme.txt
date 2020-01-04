@@ -1,0 +1,3 @@
+This folder contains probably files which are not related to Jeff Saxe. All these files were in the "Jeff Saxe" folder I got. I shall check later if there are files to move elsewhere. I must look for deeper informations on the web...
+
+BlackWinny

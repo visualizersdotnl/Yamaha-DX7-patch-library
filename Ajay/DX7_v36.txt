@@ -1,0 +1,12 @@
+======= DX7_v36 "Ajay" =======
+
+This volume contains 2 SysEx (*.syx) banks programmed by Ajay. There were originally configured for DX7II model. We converted it for the first model.
+
+Banks: 
+dx7ii-bank-A
+dx7ii-bank-B
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

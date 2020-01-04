@@ -1,0 +1,12 @@
+======= DX7_v29 "Miguel Ratton" =======
+
+This volume contains 2 sysEx (*.syx) banks gathering 47 brazilian patches programmed by Miguel Ratton
+
+Banks:
+Ratton1
+Ratton2
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm

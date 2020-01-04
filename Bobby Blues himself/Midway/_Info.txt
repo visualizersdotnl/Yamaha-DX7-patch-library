@@ -1,0 +1,10 @@
+****Midway****
+
+37 patches (2 soundbanks) that I programmed from data sheets published here:
+
+http://www.midway-software.net/dx7/
+
+
+Bobby
+
+http://bobbyblues.recup.ch/yamaha_dx7/dx7_patches.html

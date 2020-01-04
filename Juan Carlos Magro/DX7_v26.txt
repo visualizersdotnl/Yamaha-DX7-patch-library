@@ -1,0 +1,14 @@
+======= DX7_v26 "Juan Carlos Magro" =======
+
+This volume contains 4 SysEx (*.syx) banks sent by Juan Carlos Magro. Many thanks to him!
+
+Banks: 
+200102
+50202
+50202i
+patamix
+
+
+
+Rec'Up
+http://www.recup.ch/banques_dx7.htm
